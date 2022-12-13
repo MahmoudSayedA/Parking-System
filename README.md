@@ -5,3 +5,5 @@ This repo include parking system console app. its in progress now
 ### Software Scope
 - Providing information about the garage to the garage owner, such as income from it, and accelerating the process of parking the vehicle in the garage
 
+## technology
+java
